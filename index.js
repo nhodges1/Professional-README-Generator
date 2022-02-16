@@ -56,15 +56,15 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    inquirer.prompt(questions).then(inquirerResponses => {
+        console.log('Generating README...');
+        writeToFile('READ.md', generateMarkdown({ ...inquiereResponses }));
+    });
+}
 
 // Function call to initialize app
 init();
 
-const printProfileData = (profileDataArr) => {
-    console.log(profileDataArr);
-};
-
-printProfileData(profileDataArgs);
 
   
