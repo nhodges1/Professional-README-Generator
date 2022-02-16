@@ -42,11 +42,11 @@ ${data.description}
 
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
-*[Contributing](#contributing)
+* [Contributing](#contributing)
 
 * [Test](#tests)
 
-*[Questions](#questions)
+* [Questions](#questions)
 
 ## Installation
 

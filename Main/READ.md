@@ -1,9 +1,9 @@
-# Readme Generator
+# Professional Readme Generator
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-Generates a readme with various questions being prompted
+Questions are prompted for the user to input information about their project then generates a README based off the answers given.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Generates a readme with various questions being prompted
 
 * [License](#license)
 
-*[Contributing](#contributing)
+* [Contributing](#contributing)
 
 * [Test](#tests)
 
@@ -24,12 +24,12 @@ Generates a readme with various questions being prompted
 To install necessary dependencies, run the following comannd:
 
 ```
-mpn i
+npm i
 ```
 
-#Usage
+## Usage
 
-Everything that is included in the readme
+[Contributor Covenant](https://www.contributor-covenant.org/)
 
 ## License
     
@@ -49,5 +49,5 @@ npm test
 
 # Questions
 
-If you have any questions about the rpo, open an issue or contact me directly at hodges27@outlook.com. You can find more of my work at [nhodges1](https://github.com/nhodges1/).
+If you have any questions about the repo, open an issue or contact me directly at hodges27@outlook.com. You can find more of my work at [nhodges1](https://github.com/nhodges1/).
 
