@@ -56,7 +56,7 @@ To install necessary dependencies, run the following comannd:
 ${data.installation}
 \`\`\`
 
-#Usage
+## Usage
 
 ${data.usage}
 
@@ -76,7 +76,7 @@ ${data.test}
 
 # Questions
 
-If you have any questions about the rpo, open an issue or contact me directly at ${
+If you have any questions about the repo, open an issue or contact me directly at ${
   data.email
 }. You can find more of my work at [${data.github}](https://github.com/${
   data.github
