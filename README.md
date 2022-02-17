@@ -39,3 +39,6 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
+Demo of application: [Demo video](./PRG Demo.mp4)
+
+Sample READE.md file generated: [Sample](./Main/READ.md)

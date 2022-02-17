@@ -1,9 +1,9 @@
-# Professional Readme Generator
+# Professional README Generator
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-This app allows developers to generate a professional README.md file in an effortless way that is clean and efficient.
+This app allows developers to generate a professional README.md file in an effortless way that is clean and efficient!
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-N/A
+Run "node index.js" out of the Main folder to start application.
 
 ## License
     
@@ -37,7 +37,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-undefined
+[Contributor Covenant](https://www.contributor-covenant.org/)
 
 ## Test
 
