@@ -3,7 +3,7 @@
 
 ## Description
 
-Questions are prompted for the user to input information about their project then generates a README based off the answers given.
+This app allows developers to generate a professional README.md file in an effortless way that is clean and efficient.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Questions are prompted for the user to input information about their project the
 
 * [Test](#tests)
 
-*[Questions](#questions)
+* [Questions](#questions)
 
 ## Installation
 
@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-[Contributor Covenant](https://www.contributor-covenant.org/)
+N/A
 
 ## License
     

@@ -46,7 +46,8 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'What does the user need to know about contributing to the repo?'
+        message: 'What does the user need to know about contributing to the repo?',
+        default: '[Contributor Covenant](https://www.contributor-covenant.org/)'
     }
 ];
 
